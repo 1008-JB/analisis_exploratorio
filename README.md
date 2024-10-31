@@ -1,4 +1,4 @@
-# analisis_exploratorio
+# Analisis_exploratorio
 Análisis expliratorio de datos del DataFrame de anuncios de venta de choches
 
 ## Descripción del Proyecto
