@@ -6,9 +6,7 @@ import streamlit as st
 st.header("Insights en Ventas de Coches: Un Análisis Exploratorio")
 
 # Leer los datos
-car_data = pd.read_csv(
-    r'C:\Users\BETY_\Downloads\Analisis de datos\Sprint 6 Herramientas de desarrollo de software\Proyecto_final\analisis_exploratorio\vehicles_us.csv'
-)
+car_data = pd.read_csvcar_data = pd.read_csv(r"C:\Users\BETY_\Downloads\Analisis de datos\Sprint 6 Herramientas de desarrollo de software\Proyecto_final\analisis_exploratorio\vehicles_us.csv")
 
 # Crear una casilla de verificación para el histograma
 build_histogram = st.checkbox('Construir un histograma')
