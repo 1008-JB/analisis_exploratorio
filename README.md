@@ -18,3 +18,7 @@ La aplicación incluye las siguientes características:
 
 Para ejecutar esta aplicación, asegúrate de tener instalado Python y las siguientes librerías:
 pandas, plotly, nbformat y streamlit
+
+## URL de la aplicación en Render
+
+https://analisis-exploratorio.onrender.com 
